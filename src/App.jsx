@@ -69,15 +69,15 @@ const [data, setData] = useState([]);
       </div>
       
       
-        <img src="../public/images/pattern-squiggly-line-bottom.svg" alt="line"
+        <img src="/images/pattern-squiggly-line-bottom.svg" alt="line"
         className="w-[30%] absolute bottom-0 left-0 "/>
       
-        <img src="../public/images/pattern-squiggly-line-top.svg" alt="line"
+        <img src="/images/pattern-squiggly-line-top.svg" alt="line"
         className="w-[25%] absolute top-16 left-[70%]"/>
       
       
       
-        <img src="../public/images/pattern-circle.svg" alt="line"
+        <img src="/images/pattern-circle.svg" alt="line"
         className="w-[12%] absolute top-[50%] left-[65%] bg-transparent"/>
       
     </div>
